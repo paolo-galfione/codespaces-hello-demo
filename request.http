@@ -1,0 +1,6 @@
+### Pagina HTML
+GET http://localhost:3000
+
+### Endpoint API JSON — questo è quello "interessante" per la demo
+GET http://localhost:3000/api/hello
+Accept: application/json
